@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+.env
+chroma_data/*
+data/local_docstore
+data/local_vectorstore
+temp/*
+.ipynb_checkpoints
